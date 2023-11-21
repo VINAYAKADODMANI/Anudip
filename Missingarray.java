@@ -3,7 +3,7 @@ package anudipassign;
 
 import java.util.*;
 
-public class Missingarray {
+public class MissingArray {
 
 	public static void main(String[] args) {
 		//importing the scanner class
